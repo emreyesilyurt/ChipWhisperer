@@ -1,0 +1,5 @@
+
+{
+    "vllm_model": "gpt-4-vision-preview",
+    "llama3_model": "llama3"
+}
